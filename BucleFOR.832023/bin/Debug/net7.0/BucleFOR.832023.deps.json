@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BucleFOR.832023/1.0.0": {
+        "runtime": {
+          "BucleFOR.832023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BucleFOR.832023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

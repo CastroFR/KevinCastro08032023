@@ -1,0 +1,15 @@
+C:\BucleFOR.832023\bin\Debug\net7.0\BucleFOR.832023.exe
+C:\BucleFOR.832023\bin\Debug\net7.0\BucleFOR.832023.deps.json
+C:\BucleFOR.832023\bin\Debug\net7.0\BucleFOR.832023.runtimeconfig.json
+C:\BucleFOR.832023\bin\Debug\net7.0\BucleFOR.832023.dll
+C:\BucleFOR.832023\bin\Debug\net7.0\BucleFOR.832023.pdb
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.csproj.AssemblyReference.cache
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.GeneratedMSBuildEditorConfig.editorconfig
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.AssemblyInfoInputs.cache
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.AssemblyInfo.cs
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.csproj.CoreCompileInputs.cache
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.dll
+C:\BucleFOR.832023\obj\Debug\net7.0\refint\BucleFOR.832023.dll
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.pdb
+C:\BucleFOR.832023\obj\Debug\net7.0\BucleFOR.832023.genruntimeconfig.cache
+C:\BucleFOR.832023\obj\Debug\net7.0\ref\BucleFOR.832023.dll
